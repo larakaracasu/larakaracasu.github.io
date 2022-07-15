@@ -1,0 +1,16 @@
+{
+  "name": "lk-site",
+  "private": true,
+  "version": "0.0.0",
+  "homepage": "https://larakaracasu.github.io/",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "vite": "^2.9.9"
+  }
+}
